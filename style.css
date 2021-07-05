@@ -47,3 +47,10 @@ div{
 
 
 }
+footer{
+    color: grey;
+    text-align: center;
+    background-color: black;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
