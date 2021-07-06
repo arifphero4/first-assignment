@@ -1,56 +1,56 @@
-body{
-    font-family: 'Montserrat', sans-serif;
-}
-.flexible-container{
-    display: flex;
-    margin-bottom: 150px;
+body {
+  font-family: "Montserrat", sans-serif;
 }
 
-.half-width{
-    width: 60%;
-   padding: 5%;
-    
+h1 {
+  font-size: 50px;
 }
-.half-width img{
-    width: 60%;
-    
-    
-   
+.flexible-container {
+  display: flex;
+  margin-bottom: 150px;
 }
-.orange-color{
-    color: orange;
-}
-.link-button{
-    text-decoration: none;
-    background-image:linear-gradient(to left, tomato,orange) ;
-    color: white;
-    font-weight: 300;
-    padding: 8px 10px;
-    border-radius: 30px;
-}
-.background-image{
-    background-image:url(images/shapes/7.png);
-   background-repeat: no-repeat;
-   
-   
-}
-div{
-    text-align: center;
-}
-.receipe-width{
-    width: 20%;
-}
-#receipe-style{
-   border-radius: 10px;
-   box-shadow: 10px 10px 30px grey;
-   margin: 10px 30px;
 
-
+.half-width {
+  width: 60%;
+  padding: 5%;
 }
-footer{
-    color: grey;
-    text-align: center;
-    background-color: black;
-   padding-top: 10px;
-   padding-bottom: 10px;
+.half-width img {
+  width: 60%;
+}
+.orange-color {
+  color: orange;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(to left, tomato, orange);
+  color: white;
+  font-weight: 300;
+  padding: 8px 10px;
+  border-radius: 30px;
+}
+#female-photo {
+  size: 50%;
+}
+.background-image {
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+div {
+  text-align: center;
+}
+.receipe-width {
+  width: 20%;
+}
+#receipe-style {
+  border-radius: 10px;
+  box-shadow: 10px 10px 30px grey;
+  margin: 10px 30px;
+}
+footer {
+  color: grey;
+  text-align: center;
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
