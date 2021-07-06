@@ -71,3 +71,18 @@ footer {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.button {
+  float: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background: brown;
+  overflow: hidden;
+  color: white;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding: 12px 18px;
+  display: inline-block;
+  border-radius: 20px;
+}
+}
