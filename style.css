@@ -24,7 +24,9 @@ h1 {
 }
 .flexible-container {
   display: flex;
-  margin-bottom: 150px;
+  margin-bottom: 50px;
+  justify-content: center;
+  align-items: center;
 }
 
 .half-width {
@@ -32,7 +34,7 @@ h1 {
   padding: 5%;
 }
 .half-width img {
-  width: 60%;
+  width: 100%;
 }
 .orange-color {
   color: orange;
@@ -47,6 +49,7 @@ h1 {
 }
 #female-photo {
   size: 50%;
+  width: 55%;
 }
 .background-image {
   background-image: url(images/shapes/7.png);
@@ -64,6 +67,7 @@ div {
   box-shadow: 10px 10px 30px grey;
   margin: 10px 30px;
 }
+
 footer {
   color: grey;
   text-align: center;
@@ -72,7 +76,7 @@ footer {
   padding-bottom: 10px;
 }
 .button {
-  float: center;
+  float: none;
   list-style-type: none;
   margin: 0;
   padding: 0;
