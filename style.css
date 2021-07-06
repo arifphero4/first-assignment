@@ -1,6 +1,23 @@
 body {
   font-family: "Montserrat", sans-serif;
 }
+ul {
+  margin: 0;
+  padding: 0;
+  background: brown;
+  overflow: hidden;
+}
+ul li {
+  float: left;
+  list-style-type: none;
+}
+ul li a {
+  color: white;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding: 12px 18px;
+  display: inline-block;
+}
 
 h1 {
   font-size: 50px;
